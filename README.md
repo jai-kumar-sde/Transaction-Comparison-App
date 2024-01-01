@@ -57,12 +57,6 @@ Take into account, that in future you:
 * Might receive transactions not only from Kafka topic
 * Might have to support several result message formats
 * Might need to send check results via different channels, e.g. make an API call
-
-## Expected result:
-* Create a pull request to the `main` branch and assign it to `@wbcfp`
-* Source code of Spring Boot 3 application, using Java 17+
-* Maven should be able to package code to jar
-* Convenient way to check that application works
   
 # Solution
 
